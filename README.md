@@ -1,3 +1,3 @@
 # Type chain
 
-Learning TypeScript by making a blockChain whith it
+Learning TypeScript by making a blockChain with it
