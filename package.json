@@ -2,5 +2,7 @@
   "name": "TS-block_chain",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git@github.com:baejoonsoo/TS-block_chain.git",
+  "author": "baejoonsoo <artns25@dsm.hs.kr>"
 }
