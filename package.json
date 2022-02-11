@@ -4,5 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "repository": "git@github.com:baejoonsoo/TS-block_chain.git",
-  "author": "baejoonsoo <artns25@dsm.hs.kr>"
+  "author": "baejoonsoo <artns25@dsm.hs.kr>",
+  "scripts": {
+    "start": "ts-node index.ts"
+  }
 }
