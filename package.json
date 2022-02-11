@@ -6,6 +6,12 @@
   "repository": "git@github.com:baejoonsoo/TS-block_chain.git",
   "author": "baejoonsoo <artns25@dsm.hs.kr>",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "tsc-watch --onSuccess \"node dist/index.js\""
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.6.0"
+  },
+  "dependencies": {
+    "typescript": "^4.5.5"
   }
 }
